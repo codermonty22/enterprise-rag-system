@@ -32,7 +32,7 @@ enterprise-rag-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/aayushkoli/enterprise-rag-system.git](https://github.com/aayushkoli/enterprise-rag-system.git)
+git clone https://github.com/codermonty22/enterprise-rag-system.git
 cd enterprise-rag-system
 ```
 
