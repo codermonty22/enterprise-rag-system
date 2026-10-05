@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Vector DB & Local Storage
+chroma_db/
+.chroma/
+
+# VS Code settings
+.vscode/
+.DS_Store
